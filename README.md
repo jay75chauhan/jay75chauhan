@@ -3,26 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay75chauhan&label=Views&color=blue&style=plastic" alt="jay75chauhan" /> </p>
 
-<a href="https://twitter.com/imthepk">
-  <img align="left" alt="jay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/jay-chauhan">
+
+<a href="https://www.linkedin.com/mwlite/in/jay-chauhan-8a1397170"/>
   <img align="left" alt="jay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iampawan">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/jay75chauhan"/>
+  <img align="left" alt="jay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/imthepk">
-  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+
+<a href="https://www.instagram.com/jay_chauhan_75"/>
+  <img align="left" alt="jay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://instagram.com/codepur_ka_superhero/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/imthepk/">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/mtechviral/">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+
+<a href="https://www.youtube.com/channel/UC79Bge1oNeDpDzMc15k7Cjg"/>
+  <img align="left" alt="jay's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
@@ -34,7 +28,7 @@
 
 - 🔭 I’m currently Student ...
 - 🌱 I’m currently JAVA,Android Devlopment and Flutter...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Big Companies ...
 - 😄 Pronouns: He/His...
 - ⚡ Fun fact: I Love PC bulding...
 
