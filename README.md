@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm Jay Chauhan</h1>
 
 
+![GitHub followers](https://img.shields.io/github/followers/jay75chauhan?logo=GitHub&style=for-the-badge)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay75chauhan&label=Views&color=blue&style=plastic" alt="jay75chauhan" /> </p>
 
 
 <a href="https://www.linkedin.com/in/jay-chauhan-8a1397170/"/>
   <img align="left" alt="jay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://twitter.com/jay75chauhan">
+  <img align="left" alt="jay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <a href="https://github.com/jay75chauhan"/>
   <img align="left" alt="jay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
 <a href="https://www.instagram.com/jay_chauhan_75"/>
   <img align="left" alt="jay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
 <a href="https://www.youtube.com/channel/UC79Bge1oNeDpDzMc15k7Cjg"/>
   <img align="left" alt="jay's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
@@ -39,7 +43,7 @@
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="22" height="22"/>  
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="py" width="22" height="22"/>  
  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="22" height="22"/> 
-   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="android" width="22" height="22"/> 
+ <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="android" width="22" height="22"/> 
  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="22" height="22"/>  
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>  
@@ -53,12 +57,11 @@
 </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay75chauhan&layout=compact&hide=html" alt="jay75chauhan" /></p>
+
+</p>
 
 
-
-<a href="https://github.com/jay75chauhan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay75chauhan&theme=light&hide_langs_below=1" />
-</a>
 <a href="https://github.com/jay75chauhan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jay75chauhan&show_icons=true&theme=light&line_height=27" alt="Jay's github stats"/>
 </a>
