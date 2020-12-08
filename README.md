@@ -52,11 +52,8 @@
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloud" width="22" height="22"/>  
  
   
-</p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay75chauhan&layout=compact&hide=html" alt="jay75chauhan" /></p>
-
 </p>
 
 
@@ -69,7 +66,7 @@
 
 <div align="center">
 
-### 🔥🔥NEVER GIVE UP🔥🔥
+###                                                                     🔥🔥NEVER GIVE UP🔥🔥
 
 </div>
 
