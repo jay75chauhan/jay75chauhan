@@ -25,8 +25,7 @@
 
 <br/>
 <br/>
-
-
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" />
 
 
 
@@ -36,7 +35,7 @@
 - 😄 Pronouns: He/His...
 - ⚡ Fun fact: I Love PC bulding...
 
-
+ 
 ### Languages and Tools:
 
 <p align="left">
@@ -52,8 +51,7 @@
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="22" height="22"/>  
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloud" width="22" height="22"/>  
  
- 
- 
+  
 </p>
 
 
