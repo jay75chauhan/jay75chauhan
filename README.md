@@ -58,6 +58,6 @@
 
 
 <a href="https://github.com/jay75chauhan">
- <img align="right" width="500px" src="https://github-readme-stats.vercel.app/api?username=jay75chauhan&show_icons=true&theme=light&line_height=27" alt="Jay's github stats"/>
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=jay75chauhan&show_icons=true&theme=light&line_height=27" alt="Jay's github stats"/>
 </a>
 
