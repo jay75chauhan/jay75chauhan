@@ -25,7 +25,7 @@
   <img align="left" alt="jay's Youtube" width="22px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
 </a>
 
-<br/>
+
 
  
 
@@ -40,7 +40,7 @@
  
 ### Languages and Tools:
 <br/>
-<br/>
+
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="22" height="22"/>  
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="py" width="22" height="22"/>  
