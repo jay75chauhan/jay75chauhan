@@ -4,11 +4,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/jay75chauhan?logo=GitHub&style=for-the-badge)
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" />
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay75chauhan&label=Views&color=blue&style=plastic" alt="jay75chauhan" /> </p>
 
 
 <a href="https://www.linkedin.com/in/jay-chauhan-8a1397170/"/>
-  <img align="left" alt="jay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="jay's Linkdein" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
 <a href="https://twitter.com/jay75chauhan">
   <img align="left" alt="jay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
