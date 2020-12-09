@@ -12,7 +12,7 @@
   <img align="left" alt="jay's Linkdein" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
 <a href="https://github.com/jay75chauhan"/>
-  <img align="left" alt="jay's Github" width="30px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
+  <img align="left" alt="jay's Github" width="30px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 </a>
 <a href="https://twitter.com/jay75chauhan">
   <img align="left" alt="jay's Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
@@ -61,13 +61,3 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jay75chauhan&show_icons=true&theme=light&line_height=27" alt="Jay's github stats"/>
 </a>
 
-<p>
-
-
-<div align="center">
-
-###                                                                     🔥🔥NEVER GIVE UP🔥🔥
-
-</div>
-
-</p>
