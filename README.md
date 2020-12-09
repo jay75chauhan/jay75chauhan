@@ -3,7 +3,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/jay75chauhan?logo=GitHub&style=for-the-badge)
 
- <img align="right" alt="GIF" width="400px" hight="300px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+ <img align="right" alt="GIF" width="400px" hight="250px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay75chauhan&label=Views&color=blue&style=plastic" alt="jay75chauhan" /> </p>
 
@@ -26,7 +26,7 @@
 </a>
 
 <br/>
-<br/>
+
  
 
 
@@ -39,7 +39,7 @@
 <br/>
  
 ### Languages and Tools:
-
+<br/>
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="22" height="22"/>  
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="py" width="22" height="22"/>  
