@@ -36,7 +36,7 @@
 - 👯 I’m looking to collaborate on Big Companies ...
 - 😄 Pronouns: He/His...
 - ⚡ Fun fact: I Love PC bulding...
-
+<br/>
  
 ### Languages and Tools:
 
@@ -52,12 +52,12 @@
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcloud" width="22" height="22"/>  
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="22" height="22"/>  
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloud" width="22" height="22"/>  
- 
+ <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay75chauhan&layout=compact&hide=html" alt="jay75chauhan" /></p>
 
 
 
 <a href="https://github.com/jay75chauhan">
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=jay75chauhan&show_icons=true&theme=light&line_height=27" alt="Jay's github stats"/>
+ <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=jay75chauhan&show_icons=true&theme=light&line_height=27" alt="Jay's github stats"/>
 </a>
 
