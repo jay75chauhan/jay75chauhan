@@ -11,17 +11,18 @@
 <a href="https://www.linkedin.com/in/jay-chauhan-8a1397170/"/>
   <img align="left" alt="jay's Linkdein" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
-<a href="https://twitter.com/jay75chauhan">
-  <img align="left" alt="jay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://github.com/jay75chauhan"/>
-  <img align="left" alt="jay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="jay's Github" width="30px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 </a>
+<a href="https://twitter.com/jay75chauhan">
+  <img align="left" alt="jay's Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
+</a>
+
 <a href="https://www.instagram.com/jay_chauhan_75"/>
-  <img align="left" alt="jay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="jay's Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC79Bge1oNeDpDzMc15k7Cjg"/>
-  <img align="left" alt="jay's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="jay's Youtube" width="22px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
 </a>
 
 <br/>
