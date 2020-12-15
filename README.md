@@ -21,9 +21,7 @@
 <a href="https://www.instagram.com/jay_chauhan_75"/>
   <img align="left" alt="jay's Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UC79Bge1oNeDpDzMc15k7Cjg"/>
-  <img align="left" alt="jay's Youtube" width="22px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
-</a>
+
 
 
 
