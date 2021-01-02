@@ -1,4 +1,9 @@
+<p align="center"><a href="https://github.com/jay75chauhan"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+
+
 <h1 align="center">Hi 👋, I'm Jay Chauhan</h1>
+
+
 
 
 ![GitHub followers](https://img.shields.io/github/followers/jay75chauhan?logo=GitHub&style=for-the-badge)
@@ -62,4 +67,4 @@
 <a href="https://github.com/jay75chauhan">
  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=jay75chauhan&show_icons=true&theme=light&line_height=27" alt="Jay's github stats"/>
 </a>
-
+<p align="center"><a href="https://github.com/jay75chauhan"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
