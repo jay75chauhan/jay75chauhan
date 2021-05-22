@@ -30,8 +30,9 @@
 <a href="https://www.qwiklabs.com/public_profiles/5611e95f-cc1e-4890-bbc8-872020498aef"/>
   <img align="left" alt="jay's qwiklabs" width="30px" src="https://www.codemithra.com/wp-content/uploads/2020/04/qwiklabs-logo.png" />
 </a>
-
-
+<a href="https://developers.google.com/profile/u/118044263263659354971?authuser=1&utm_source=developers.google.com"/>
+ <img align="left" alt="jay's qwiklabs" width="30px" src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" />
+</a>
  
 <br/>
 <br/>
