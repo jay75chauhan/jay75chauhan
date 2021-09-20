@@ -23,9 +23,6 @@
   <img align="left" alt="jay's Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 
-<a href="https://www.instagram.com/jay_chauhan_75"/>
-  <img align="left" alt="jay's Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-</a>
 
 <a href="https://www.qwiklabs.com/public_profiles/5611e95f-cc1e-4890-bbc8-872020498aef"/>
   <img align="left" alt="jay's qwiklabs" width="30px" src="https://www.codemithra.com/wp-content/uploads/2020/04/qwiklabs-logo.png" />
@@ -57,14 +54,22 @@
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="dart" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="dart" width="22" height="22"/>
- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="dart" width="22" height="22"/>
+ <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typr" width="22" height="22"/>
+ <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nod" width="22" height="22"/>
+ <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="dart" width="22" height="22"/>
+ <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="dart" width="22" height="22"/>
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="dart" width="22" height="22"/>
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>  
  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="firebase" width="22" height="22"/>  
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
+ <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="22" height="22"/>
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcloud" width="22" height="22"/>  
+ <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="linux" width="22" height="22"/> 
+ <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="linux" width="22" height="22"/> 
+ 
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="22" height="22"/>  
+ <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="linux" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloud" width="22" height="22"/>  
  <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay75chauhan&layout=compact&hide=html" alt="jay75chauhan" /></p>
