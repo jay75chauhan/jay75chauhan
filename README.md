@@ -8,7 +8,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/jay75chauhan?logo=GitHub&style=for-the-badge)
 
- <img align="right" alt="GIF" width="400px" hight="100px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+ <img align="right" alt="GIF" width="400px" hight="100px" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47m9zw3jyq2n00bcvj1hd8y4nsojdphzqilqprsg4f&amp;rid=giphy.gif&amp;ct=g" />
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay75chauhan&label=Views&color=blue&style=plastic" alt="jay75chauhan" /> </p>
 
