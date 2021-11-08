@@ -60,6 +60,7 @@
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="dart" width="22" height="22"/>
  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="dart" width="22" height="22"/>
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="dart" width="22" height="22"/>
+ <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="firebase" width="22" height="22"/>  
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>  
  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="firebase" width="22" height="22"/>  
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
