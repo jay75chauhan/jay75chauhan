@@ -66,12 +66,11 @@ Hi there I am [Jay](https://jay75chauhan.vercel.app)<img src="https://raw.github
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcloud" width="22" height="22"/>  
  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="linux" width="22" height="22"/> 
  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="linux" width="22" height="22"/> 
- 
  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="22" height="22"/>  
  <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="linux" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloud" width="22" height="22"/>  
+ <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloud" width="22" height="22"/>  
  <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay75chauhan&layout=compact&hide=html" alt="jay75chauhan" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay75chauhan&layout=compact&hide=html" alt="jay75chauhan" /></p> -->
 
 
 ### My Github Stats 📊
@@ -89,8 +88,9 @@ For future use
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 -->
+<!--
 <a href="https://github.com/jay75chauhan">
  <img align="right" width="430px" src="https://github-readme-stats.vercel.app/api?username=jay75chauhan&show_icons=true&theme=light&line_height=27" alt="Jay's github stats"/>
 </a>
-
+-->
 <p align="center"><a href="https://github.com/jay75chauhan"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
