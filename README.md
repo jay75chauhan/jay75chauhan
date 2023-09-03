@@ -75,9 +75,11 @@ Hi there I am [Jay](https://jay75chauhan.vercel.app)<img src="https://raw.github
 
 ### My Github Stats 📊
 
-[![](https://raw.githubusercontent.com/jay75chauhan/jay75chauhan/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/jay75chauhan/jay75chauhan/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jay75chauhan/jay75chauhan/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/jay75chauhan/jay75chauhan/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jay75chauhan/jay75chauhan/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jay75chauhan&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jay75chauhan&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jay75chauhan&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jay75chauhan&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jay75chauhan&theme=github_dark&utcOffset=8)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jay75chauhan&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 <!--
 For future use
