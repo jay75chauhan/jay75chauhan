@@ -88,7 +88,13 @@ For future use
  <img align="right" width="430px" src="https://github-readme-stats.vercel.app/api?username=jay75chauhan&show_icons=true&theme=light&line_height=27" alt="Jay's github stats"/>
 </a>
 -->
-
 ### 📈 My GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jay75chauhan/jay75chauhan/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jay75chauhan/jay75chauhan/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
 ![Snake animation](https://github.com/jay75chauhan/jay75chauhan/blob/output/github-contribution-grid-snake.svg)
 <p align="center"><a href="https://github.com/jay75chauhan"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
