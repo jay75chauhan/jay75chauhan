@@ -89,5 +89,5 @@ For future use
 </a>
 -->
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/jay75chauhan/jay75chauhan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jay75chauhan/jay75chauhan/blob/output/github-contribution-grid-snake-dark.svg)
 <p align="center"><a href="https://github.com/jay75chauhan"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
