@@ -16,7 +16,7 @@
 
 
 <a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
-  <img align="left" alt="jay's qwiklabs" width="30px" src="https://image.shutterstock.com/image-photo/image-260nw-2250392949.jpg" />
+  <img align="left" alt="jay's qwiklabs" width="30px" src="https://opensource.microsoft.com/assets/images/svgs/microsoft-logo-no-text.svg" />
 </a>
 <a href="https://www.qwiklabs.com/public_profiles/5611e95f-cc1e-4890-bbc8-872020498aef"/>
   <img align="left" alt="jay's qwiklabs" width="30px" src="https://www.codemithra.com/wp-content/uploads/2020/04/qwiklabs-logo.png" />
