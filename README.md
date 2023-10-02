@@ -40,31 +40,28 @@
 <br/>
 
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="py" width="22" height="22"/>  
- <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="22" height="22"/> 
- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="android" width="22" height="22"/> 
- <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="22" height="22"/>  
- <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="dart" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="dart" width="22" height="22"/>
- <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typr" width="22" height="22"/>
- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nod" width="22" height="22"/>
- <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="dart" width="22" height="22"/>
- <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="dart" width="22" height="22"/>
-<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="dart" width="22" height="22"/>
- <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="firebase" width="22" height="22"/>  
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>  
- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="firebase" width="22" height="22"/>  
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
- <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="22" height="22"/>
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcloud" width="22" height="22"/>  
- <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="linux" width="22" height="22"/> 
- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="linux" width="22" height="22"/> 
- <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="22" height="22"/>  
- <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="linux" width="22" height="22"/> 
- <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloud" width="22" height="22"/>  
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="py" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="android" width="4-" height="4-"/> 
+ 
+ <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="4-" height="4-"/>
+ <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="dart" width="4-" height="4-"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="dart" width="4-" height="4-"/>
+ <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typr" width="4-" height="4-"/>
+ <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nod" width="4-" height="4-"/>
+ <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="4-" height="4-"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="dart" width="4-" height="4-"/>
+ <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="dart" width="4-" height="4-"/>
+<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="dart" width="4-" height="4-"/>
+ <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="firebase" width="4-" height="4-"/>  
+ <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="4-" height="4-"/>  
+ <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="firebase" width="4-" height="4-"/>  
+
+ <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="4-" height="4-"/>
+
+ <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="linux" width="4-" height="4-"/> 
+ <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloud" width="4-" height="4-"/>    </a> </p>
+
+
+
  <br/>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay75chauhan&layout=compact&hide=html" alt="jay75chauhan" /></p> -->
 
@@ -80,10 +77,10 @@
 <!--
 For future use
 <a href="https://www.instagram.com/hemant.gz/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="4-px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Leetcode" width="4-px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 -->
 <!--
