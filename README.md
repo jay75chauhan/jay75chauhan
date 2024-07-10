@@ -1,3 +1,13 @@
+<p align="center"><a href="https://github.com/jay75chauhan"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+
+
+## Hi there I am [Jay](https://jay75chauhan.vercel.app)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+
+![GitHub followers](https://img.shields.io/github/followers/jay75chauhan?logo=GitHub&style=for-the-badge)
+[![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jay75chauhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-chauhan-8a1397170)
 
  <img align="right" alt="GIF" width="400px" hight="100px" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47m9zw3jyq2n00bcvj1hd8y4nsojdphzqilqprsg4f&amp;rid=giphy.gif&amp;ct=g" />
  
@@ -30,7 +40,7 @@
 <br/>
 
 ### My Bage 📊
-
+<p align="left">
 
  <a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
   <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/eb79c366-bf91-4618-b19c-439fb652ca2b" />
@@ -38,7 +48,13 @@
 <a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
   <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/03e34cac-f875-489e-94e8-1f1d9fd169f5" />
 </a>
-
+<a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
+  <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/03e34cac-f875-489e-94e8-1f1d9fd169f5" />
+</a>
+<a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
+  <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/03e34cac-f875-489e-94e8-1f1d9fd169f5" />
+</a>
+</p>
 
 
 
