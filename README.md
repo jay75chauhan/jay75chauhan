@@ -39,20 +39,20 @@
   
 <br/>
 
-### My Certificates ⚡
+###  ⚡ My Certificates ⚡
 <p align="left">
 
  <a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
-  <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/eb79c366-bf91-4618-b19c-439fb652ca2b" />
+  <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/3edb1f3b-2c65-4865-8307-0b7ff337621a" />
 </a>
 <a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
-  <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/03e34cac-f875-489e-94e8-1f1d9fd169f5" />
+  <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/e9cc4ec7-affc-4f40-9497-4193606d3171" />
 </a>
 <a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
-  <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/03e34cac-f875-489e-94e8-1f1d9fd169f5" />
+  <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/49d870e7-eb55-477b-8928-a2e8d51329bf" />
 </a>
 <a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
-  <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/03e34cac-f875-489e-94e8-1f1d9fd169f5" />
+  <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/312f93ae-e8eb-4bcd-ad1f-b6a3f77f5d85" />
 </a>
 </p>
 
