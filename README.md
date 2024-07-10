@@ -39,7 +39,7 @@
   
 <br/>
 
-### My Bage 📊
+### My Certificates ⚡
 <p align="left">
 
  <a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
@@ -56,9 +56,6 @@
 </a>
 </p>
 
-
-
-<br/>
 
 ## 👨‍💻 Technologies and Tools
 
