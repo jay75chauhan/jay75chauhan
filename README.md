@@ -35,7 +35,13 @@
 - 😄 Pronouns: He/His...
 - ⚡ Fun fact: I Love Technology...
 <br/>
- 
+
+### My Bage 📊
+
+
+ <a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
+  <img align="left" alt="jay's qwiklabs" width="30px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/eb79c366-bf91-4618-b19c-439fb652ca2b" />
+</a>
 
 ## 👨‍💻 Technologies and Tools
 
