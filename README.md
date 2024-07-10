@@ -43,10 +43,10 @@
 
 
  <a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
-  <img align="left" alt="jay's qwiklabs" width="200px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/eb79c366-bf91-4618-b19c-439fb652ca2b" />
+  <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/eb79c366-bf91-4618-b19c-439fb652ca2b" />
 </a>
 <a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
-  <img align="left" alt="jay's qwiklabs" width="200px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/03e34cac-f875-489e-94e8-1f1d9fd169f5" />
+  <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/03e34cac-f875-489e-94e8-1f1d9fd169f5" />
 </a>
 
 
@@ -79,7 +79,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jay75chauhan&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jay75chauhan&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jay75chauhan&theme=github_dark&utcOffset=8)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jay75chauhan&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=jay75chauhan&theme=ads-juicy-fresh)](https://git.io/streak-stats)-->
 <!--
 For future use
 <a href="https://www.instagram.com/hemant.gz/">
