@@ -34,14 +34,23 @@
 - 👯 I’m looking to collaborate on Big Companies ...
 - 😄 Pronouns: He/His...
 - ⚡ Fun fact: I Love Technology...
+
+
+  
 <br/>
 
 ### My Bage 📊
 
 
  <a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
-  <img align="left" alt="jay's qwiklabs" width="30px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/eb79c366-bf91-4618-b19c-439fb652ca2b" />
+  <img align="left" alt="jay's qwiklabs" width="100px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/eb79c366-bf91-4618-b19c-439fb652ca2b" />
 </a>
+<a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
+  <img align="left" alt="jay's qwiklabs" width="100px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/03e34cac-f875-489e-94e8-1f1d9fd169f5" />
+</a>
+
+<br/>
+<br/>
 
 ## 👨‍💻 Technologies and Tools
 
