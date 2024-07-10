@@ -89,7 +89,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jay75chauhan&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jay75chauhan&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jay75chauhan&theme=github_dark&utcOffset=8)
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=jay75chauhan&theme=ads-juicy-fresh)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jay75chauhan&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 <!--
 For future use
 <a href="https://www.instagram.com/hemant.gz/">
