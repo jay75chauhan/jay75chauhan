@@ -6,6 +6,8 @@
 
 
 ![GitHub followers](https://img.shields.io/github/followers/jay75chauhan?logo=GitHub&style=for-the-badge)
+
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jay-chauhan-8a1397170/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@jay75chauhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jay75chauhan)
 
  <img align="right" alt="GIF" width="400px" hight="100px" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47m9zw3jyq2n00bcvj1hd8y4nsojdphzqilqprsg4f&amp;rid=giphy.gif&amp;ct=g" />
