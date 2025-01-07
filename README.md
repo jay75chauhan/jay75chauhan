@@ -40,7 +40,9 @@
 
 ###  ⚡ My Certificates ⚡
 <p align="left">
-
+ <a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/credentials/e5a8743ab0fd1891"/>
+  <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/user-attachments/assets/fe8a09a7-5e81-4f57-bbbe-537e9f1629c2" />
+</a>
  <a href="https://www.credly.com/badges/861146da-d2f2-4ed0-8079-ed1a8990361b/public_url?trk=public_profile_see-credential"/>
   <img align="left" alt="jay's qwiklabs" width="150px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/3edb1f3b-2c65-4865-8307-0b7ff337621a" />
 </a>
