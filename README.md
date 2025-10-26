@@ -14,11 +14,11 @@
 
 
 
-<a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/transcript/dg1nnbmx3yq2emz"/>
-  <img align="left" alt="jay's qwiklabs" width="30px" src="https://opensource.microsoft.com/assets/images/svgs/microsoft-logo-no-text.svg" />
+<a href="https://learn.microsoft.com/en-us/users/jay75chauhan"/>
+  <img align="left" alt="jay's qwiklabs" width="30px" src="https://github.com/user-attachments/assets/f2168953-78ef-4da1-8fd2-434155d528ae" />
 </a>
-<a href="https://www.qwiklabs.com/public_profiles/5611e95f-cc1e-4890-bbc8-872020498aef"/>
-  <img align="left" alt="jay's qwiklabs" width="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+<a href="https://www.credly.com/users/jay75chauhan"/>
+  <img align="left" alt="jay's credly" width="30px" src="https://github.com/user-attachments/assets/5af34443-0cf1-4234-9f14-a645b413ec89" />
 </a>
 
 <a href="https://developers.google.com/profile/u/118044263263659354971?authuser=1&utm_source=developers.google.com"/>
