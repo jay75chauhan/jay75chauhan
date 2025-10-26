@@ -93,10 +93,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jay75chauhan&theme=radical)](https://git.io/streak-stats)
 
-<br/>
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jay75chauhan&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
 <br/>
 
