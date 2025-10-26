@@ -29,11 +29,11 @@
 <br/>
 
 ## 🚀 About Me
--🔭 I’m currently learning and building projects to sharpen my skills in Cloud, DevOps, and Cybersecurity.
--👯 I’m looking to collaborate on innovative and impactful projects.
--💡 Passionate about automation, security, and modern infrastructure.
--😄 Pronouns: He / Him
--⚡ Fun fact: I don’t just use technology — I live it!
+- 🔭 I’m currently learning and building projects to sharpen my skills in Cloud, DevOps, and Cybersecurity.
+- 👯 I’m looking to collaborate on innovative and impactful projects.
+- 💡 Passionate about automation, security, and modern infrastructure.
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I don’t just use technology — I live it!
 
 
   
