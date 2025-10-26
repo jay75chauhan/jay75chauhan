@@ -26,8 +26,6 @@
 </a>
  
 <br/>
-<br/>
-
 
 - 🔭 I’m currently learning and building projects to sharpen my skills in Cloud, DevOps, and Cybersecurity.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
@@ -36,7 +34,6 @@
 - ⚡ Fun fact: I don’t just use technology — I live it!
   
 <br/>
-
 ###   ⚡ My Certificates ⚡
 <p align="left">
   <a href="https://www.credly.com/badges/b16468bb-7af1-42a8-bcc7-7d6113d0ac43/public_url"/>
@@ -66,6 +63,8 @@
 <br/>
 <br/>
 <br/>
+
+
 
 ### 👨‍💻 Technologies and Tools
 
