@@ -41,12 +41,16 @@
 
 ###  ⚡ My Certificates ⚡
 <p align="left">
-  <a href="https://www.credly.com/badges/861146da-d2f2-4ed0-8079-ed1a8990361b/public_url?trk=public_profile_see-credential"/>
-  <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/3edb1f3b-2c65-4865-8307-0b7ff337621a" />
+  <a href="https://www.credly.com/badges/b16468bb-7af1-42a8-bcc7-7d6113d0ac43/public_url"/>
+  <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/user-attachments/assets/c8f22439-02c8-42b5-9d24-039a0ec63566" />
 </a>
  <a href="https://learn.microsoft.com/en-us/users/jaychauhan-9587/credentials/e5a8743ab0fd1891"/>
   <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/user-attachments/assets/fe8a09a7-5e81-4f57-bbbe-537e9f1629c2" />
 </a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/jay75chauhan/BD0A4FAD9128EA03?sharingId=279C559F1EA11EF1"/>
+  <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/user-attachments/assets/3c21b8ad-a6cf-49f2-bd2e-2c428f4da888" />
+</a>
+
  <a href="https://www.credly.com/badges/861146da-d2f2-4ed0-8079-ed1a8990361b/public_url?trk=public_profile_see-credential"/>
   <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/3edb1f3b-2c65-4865-8307-0b7ff337621a" />
 </a>
