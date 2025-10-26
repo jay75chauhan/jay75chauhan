@@ -27,41 +27,37 @@
  
 <br/>
 <br/>
-
-## 🚀 About Me
 - 🔭 I’m currently learning and building projects to sharpen my skills in Cloud, DevOps, and Cybersecurity.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
 - 💡 Passionate about automation, security, and modern infrastructure.
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I don’t just use technology — I live it!
-
-
   
 <br/>
 
 ###  ⚡ My Certificates ⚡
 <p align="left">
   <a href="https://www.credly.com/badges/b16468bb-7af1-42a8-bcc7-7d6113d0ac43/public_url"/>
-  <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/user-attachments/assets/c8f22439-02c8-42b5-9d24-039a0ec63566" />
+  <img align="left" alt="jay's qwiklabs" width="110px" src="https://github.com/user-attachments/assets/c8f22439-02c8-42b5-9d24-039a0ec63566" />
 </a>
  <a href="https://learn.microsoft.com/api/credentials/share/en-us/jay75chauhan/E5A8743AB0FD1891?sharingId=279C559F1EA11EF1"/>
-  <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/user-attachments/assets/fe8a09a7-5e81-4f57-bbbe-537e9f1629c2" />
+  <img align="left" alt="jay's qwiklabs" width="110px" src="https://github.com/user-attachments/assets/fe8a09a7-5e81-4f57-bbbe-537e9f1629c2" />
 </a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/jay75chauhan/BD0A4FAD9128EA03?sharingId=279C559F1EA11EF1"/>
-  <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/user-attachments/assets/24587889-897c-40be-9adf-6752b7dbc887" />
+  <img align="left" alt="jay's qwiklabs" width="110px" src="https://github.com/user-attachments/assets/24587889-897c-40be-9adf-6752b7dbc887" />
 </a>
 
  <a href="https://www.credly.com/badges/861146da-d2f2-4ed0-8079-ed1a8990361b/public_url?trk=public_profile_see-credential"/>
-  <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/3edb1f3b-2c65-4865-8307-0b7ff337621a" />
+  <img align="left" alt="jay's qwiklabs" width="110px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/3edb1f3b-2c65-4865-8307-0b7ff337621a" />
 </a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/jay75chauhan/F48663F81D2E0A5F?sharingId=279C559F1EA11EF1"/>
-  <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/e9cc4ec7-affc-4f40-9497-4193606d3171" />
+  <img align="left" alt="jay's qwiklabs" width="110px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/e9cc4ec7-affc-4f40-9497-4193606d3171" />
 </a>
 <a href="https://www.credly.com/badges/ecedbf93-364a-4787-b487-96585a7048d1/public_url?trk=public_profile_see-credential"/>
-  <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/49d870e7-eb55-477b-8928-a2e8d51329bf" />
+  <img align="left" alt="jay's qwiklabs" width="110px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/49d870e7-eb55-477b-8928-a2e8d51329bf" />
 </a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/jay75chauhan/2F9571AB0910C411?sharingId=279C559F1EA11EF1"/>
-  <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/312f93ae-e8eb-4bcd-ad1f-b6a3f77f5d85" />
+  <img align="left" alt="jay's qwiklabs" width="110px" src="https://github.com/jay75chauhan/jay75chauhan/assets/66429052/312f93ae-e8eb-4bcd-ad1f-b6a3f77f5d85" />
 </a>
 </p>
 
