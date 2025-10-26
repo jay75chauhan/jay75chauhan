@@ -27,6 +27,8 @@
  
 <br/>
 <br/>
+
+
 - 🔭 I’m currently learning and building projects to sharpen my skills in Cloud, DevOps, and Cybersecurity.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
 - 💡 Passionate about automation, security, and modern infrastructure.
@@ -64,11 +66,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 
 ## 👨‍💻 Technologies and Tools
