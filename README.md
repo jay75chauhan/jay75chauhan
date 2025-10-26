@@ -34,10 +34,8 @@
 - 💡 Passionate about automation, security, and modern infrastructure.
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I don’t just use technology — I live it!
-  
 <br/>
-
-###  ⚡ My Certificates ⚡
+##  ⚡ My Certificates ⚡
 <p align="left">
   <a href="https://www.credly.com/badges/b16468bb-7af1-42a8-bcc7-7d6113d0ac43/public_url"/>
   <img align="left" alt="jay's qwiklabs" width="110px" src="https://github.com/user-attachments/assets/c8f22439-02c8-42b5-9d24-039a0ec63566" />
