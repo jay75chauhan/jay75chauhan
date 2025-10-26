@@ -48,7 +48,7 @@
   <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/user-attachments/assets/fe8a09a7-5e81-4f57-bbbe-537e9f1629c2" />
 </a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/jay75chauhan/BD0A4FAD9128EA03?sharingId=279C559F1EA11EF1"/>
-  <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/user-attachments/assets/3c21b8ad-a6cf-49f2-bd2e-2c428f4da888" />
+  <img align="left" alt="jay's qwiklabs" width="130px" src="https://github.com/user-attachments/assets/ebfa7a7d-3854-49b2-a689-36e86afcdb76" />
 </a>
 
  <a href="https://www.credly.com/badges/861146da-d2f2-4ed0-8079-ed1a8990361b/public_url?trk=public_profile_see-credential"/>
